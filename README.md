@@ -7,6 +7,7 @@
 A definitive collection of production-ready database design patterns. From soft deletes to multi-tenancy and audit logs, this repository provides clean SQL and ORM examples to help you build scalable, maintainable data layers.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
